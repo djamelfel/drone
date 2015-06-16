@@ -22,6 +22,7 @@ drone
 *_bindata.go
 *.toml
 !dist/drone/etc/drone/drone.toml
+!dist/drone/etc/init.d/drone
 
 # generate binaries
 cmd/drone-agent/drone-agent
